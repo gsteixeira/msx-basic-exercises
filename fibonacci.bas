@@ -1,0 +1,8 @@
+10 A = 0
+20 B = 1
+30 FOR I=0 TO 10
+40 PRINT A
+50 NTH = A + B
+60 A = B
+70 B = NTH
+80 NEXT
